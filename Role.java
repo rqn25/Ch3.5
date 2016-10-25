@@ -1,7 +1,7 @@
 
 import javax.swing.JOptionPane;
 
-public class Role {
+public class Rolex {
 public enum AccountType {Administrator, Faculty, Staff, Student, Guest}
 public static void main(String[] args) {
 
