@@ -8,7 +8,7 @@ import javafx.application.Application;
 import javafx.scene.control.ChoiceDialog;
 import javafx.stage.Stage;
 
-public class Role extends Application {
+public class Role2 extends Application {
 
 	public static void main(String[] args) {
 		launch(args);
